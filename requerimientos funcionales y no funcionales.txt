@@ -1,0 +1,14 @@
+Requerimientos Funcionales 
+•	El sistema deberá permitir el ingreso a través de un usuario y contraseña
+•	EL sistema permitirá hacer el ingreso de los datos y Gestionar la información del presupuesto dentro del sistema y las propiedades de cada uno de este.
+•	El sistema permitirá crear presupuestos del aplicativo 
+•	El sistema permitirá crear los Ingresos del aplicativo 
+•	El sistema permitirá crear los Egresó del aplicativo 
+•	El sistema debe permitir eliminar una operación específica de una manera fácil y ordenada de los presupuestos. 
+•	El sistema debe permitir la búsqueda, de los datos almacenados
+Requerimientos no funcionales
+•	La información guardada está segura en la base de datos 
+•	Es una interfaz, comprensible y dinámica para su cómodo uso. 
+•	Forma fácil de hacerle mantenimiento al sistema.
+•	El aplicativo maneja un solo usuario no tiene conflicto de operatividad.
+•	 El diseño es a nivel local la velocidad será óptima y no habrá latencia
